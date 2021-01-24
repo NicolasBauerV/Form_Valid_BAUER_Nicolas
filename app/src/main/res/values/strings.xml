@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Form_valid_TD_BAUER_Nicolas</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_name">Enter your name...</string>
+    <string name="enter_firstname">Enter your first name...</string>
+    <string name="femme">Femme</string>
+    <string name="homme">Homme</string>
+    <string name="checkbox1">C++</string>
+    <string name="checkbox2">JavaScript</string>
+    <string name="checkbox3">Java</string>
+    <string name="image_de_profil">pdp</string>
+    <string name="time_in_hour">Temps par jour calculé / semaine</string>
+    <string name="nb_hour">Saisissez votre temps de jeu...</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="ici_tps_jeu">ici tps jeu</string>
+    <string name="ici_checkbox_res_3">ici checkbox res 3</string>
+    <string name="ici_checkbox_res_2">ici checkbox res 2</string>
+    <string name="ici_checkbox_res_1">ici checkbox res 1</string>
+    <string name="ici_radio_button_res">ici radio button res</string>
+    <string name="ici_l_email">ici l email</string>
+    <string name="ici_le_pr_nom">ici le prénom</string>
+    <string name="ici_le_nom">Ici le nom</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="welcome">Bienvenue</string>
+</resources>

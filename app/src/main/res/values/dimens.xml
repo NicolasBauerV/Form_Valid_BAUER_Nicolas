@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_top_text_view_email">25dp</dimen>
+    <dimen name="margin2">25dp</dimen>
+    <dimen name="width_img">150dp</dimen>
+    <dimen name="height_img">70dp</dimen>
+    <dimen name="margin_top_datetext_from_toolbar">15dp</dimen>
+    <dimen name="textSise_Welcome">120sp</dimen>
+    <dimen name="img_dim">354dp</dimen>
+</resources>
