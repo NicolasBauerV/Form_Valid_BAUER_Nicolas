@@ -32,4 +32,5 @@
     <string name="ici_le_nom">Ici le nom</string>
     <string name="sign_up">Sign_up</string>
     <string name="welcome">Bienvenue</string>
+    <string name="msg">Bonjour et bienvenu, vous pouvez vous inscrire en appuyant sur le bouton "S'inscrire"</string>
 </resources>

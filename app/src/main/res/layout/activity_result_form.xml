@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background_gen"
     tools:context=".Result_form">
 
     <TextView
@@ -36,30 +37,30 @@
 
     <TextView
         android:id="@+id/checkBox_res"
-        android:layout_below="@id/radioButton_res"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/radioButton_res"
         android:text="@string/ici_checkbox_res_1" />
 
     <TextView
         android:id="@+id/checkBox2_res"
-        android:layout_below="@id/checkBox_res"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/checkBox_res"
         android:text="@string/ici_checkbox_res_2" />
 
     <TextView
         android:id="@+id/checkBox3_res"
-        android:layout_below="@id/checkBox2_res"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/checkBox2_res"
         android:text="@string/ici_checkbox_res_3" />
 
     <TextView
         android:id="@+id/time_of_play_res"
-        android:layout_below="@id/checkBox3_res"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/checkBox3_res"
         android:text="@string/ici_tps_jeu" />
 
 

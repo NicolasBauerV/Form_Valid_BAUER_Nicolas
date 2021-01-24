@@ -11,8 +11,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="@dimen/img_dim"
-        android:layout_centerHorizontal="true"
-        app:srcCompat="@drawable/blog_elloha_le_formulaire_ne_sert_plus_a_rien" />
+        android:foreground="@drawable/blog_elloha_le_formulaire_ne_sert_plus_a_rien" />
 
     <TextView
         android:layout_width="wrap_content"

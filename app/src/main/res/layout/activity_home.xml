@@ -4,14 +4,39 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/background_gen"
     tools:context=".Home">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/msg"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/mg_top_msg_home"/>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/img_home_height"
+        android:layout_below="@id/textView"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="@dimen/home_img_from_tv"
+        android:foreground="@drawable/link_1" />
 
     <Button
         android:id="@+id/button_sign"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/sign_up"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/imageView3"
+        android:layout_marginTop="@dimen/home_img_from_tv"
+        android:text="@string/sign_up" />
+
+
+
+
 </RelativeLayout>
